@@ -9,7 +9,7 @@
      ![OpenMRS Android Client Offline login screen][login]
     
     
-    [login]: assets/openmrs_android_client_offline_login.png
+    [login]: assets/photo.jpg
      
    2. Now enter the username as admin and password as Admin123 .
    
